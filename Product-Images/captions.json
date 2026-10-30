@@ -1,0 +1,10 @@
+{
+  "product-image-01.jpg": "Product image: array with packaging and leaflet",
+  "product-image-02.jpg": "Product image: 9-sensor array, angled view",
+  "product-render-01.png": "3D render: front side",
+  "product-render-02.png": "3D render: alternate view",
+  "product-render-03.png": "3D render: front side, alternate angle",
+  "product-render-rear.png": "3D render: rear side",
+  "product-render-side.png": "3D render: side profile",
+  "mechanical-drawing.png": "Mechanical drawing with dimensions (mm)"
+}
